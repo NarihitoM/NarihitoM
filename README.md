@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Hein%20Htet%20Aung&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Hein Htet Aung" width="100%" />
 
 <a href="https://github.com/NarihitoM">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+Engineer+and+Full+Stack+Developer;3rd+year+CS+student+at+UIT;Developer+of+MultimateAi+Agentic+OS;MCP+servers%2C+AI+agents+and+desktop+apps;TypeScript+%7C+React+%7C+Next.js+%7C+Electron+%7C+Python" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+Engineer+and+Full+Stack+Developer;3rd+year+CS+student+at+UIT;Developer+of+MultimateAi+Agentic+OS;MCP+servers%2C+AI+agents+and+desktop+apps;TypeScript+%7C+Next.js+%7C+Vue+%7C+Node.js+%7C+LangChain" alt="Typing intro" />
 </a>
 
 <p>
@@ -28,11 +28,24 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,html,css&perline=10" alt="Languages" />
+**Languages**
 <br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,electron,nodejs,express,fastapi,flask,prisma&perline=10" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=ts,js" alt="TypeScript, JavaScript" />
+
+**Frontend**
 <br />
-<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,vscode,figma&perline=10" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue" alt="React, Next.js, Vue.js" />
+
+**Backend and databases**
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,redis,mongodb" alt="Node.js, Express, Prisma, PostgreSQL, Redis, MongoDB" />
+
+**AI, automation, desktop, and deployment**
+<br />
+<img src="https://skillicons.dev/icons?i=electron,vercel" alt="Electron, Vercel" />
+<br />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
 </div>
 
