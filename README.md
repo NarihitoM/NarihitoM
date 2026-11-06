@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Hein%20Htet%20Aung&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=aka%20Narihito%20%7C%20Building%20agentic%20AI%20software&descAlignY=58&descSize=18" alt="Hein Htet Aung" width="100%" />
 
 <a href="https://github.com/NarihitoM">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Narihito+in+code+and+games;3rd+year+CS+student+at+UIT;Developer+of+MultimateAi+Agentic+OS;MCP+servers%2C+AI+agents+and+desktop+apps;TypeScript+%7C+React+%7C+Next.js+%7C+Electron+%7C+Python" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=3rd+year+CS+student+at+UIT;Developer+of+MultimateAi+Agentic+OS;MCP+servers%2C+AI+agents+and+desktop+apps;TypeScript+%7C+React+%7C+Next.js+%7C+Electron+%7C+Python" alt="Typing intro" />
 </a>
 
 <p>
@@ -18,7 +18,6 @@
 <img align="right" width="230" src="assets/hein-htet-aung.jpg" alt="Hein Htet Aung at Maya Bay" />
 
 - I'm **Hein Htet Aung**, a 3rd year Computer Science student at the **University of Information Technology (UIT)**, Yangon
-- Online I go by **Narihito**, my name for coding and gaming
 - Building **MultimateAi**, an agentic OS style app that connects many AI model providers and services
 - I like turning AI models into tools people actually use: desktop assistants, MCP servers, Telegram agents, and dashboards
 
