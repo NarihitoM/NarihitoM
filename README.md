@@ -15,14 +15,14 @@
 
 ## About me
 
-<img align="right" width="230" src="assets/hein-htet-aung.jpg" alt="Hein Htet Aung at Maya Bay" />
+<p align="center">
+  <img width="320" src="assets/hein-htet-aung.jpg" alt="Hein Htet Aung at Maya Bay" />
+</p>
 
 - I'm **Hein Htet Aung**, an **AI Engineer** and **Full Stack Developer**
 - 3rd year Computer Science student at the **University of Information Technology (UIT)**, Yangon
 - Building **MultimateAi**, an agentic OS style app that connects many AI model providers and services
 - I like turning AI models into tools people actually use: desktop assistants, MCP servers, Telegram agents, and dashboards
-
-<br clear="right" />
 
 ## Tech stack
 
