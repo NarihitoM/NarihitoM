@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Hein%20Htet%20Aung&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Hein Htet Aung" width="100%" />
+<img src="assets/banner.svg" alt="Hein Htet Aung, AI Engineer and Full Stack Developer" width="100%" />
 
 <a href="https://github.com/NarihitoM">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+Engineer+and+Full+Stack+Developer;3rd+year+CS+student+at+UIT;Developer+of+MultimateAi+Agentic+OS;MCP+servers%2C+AI+agents+and+desktop+apps;TypeScript+%7C+Next.js+%7C+Vue+%7C+Node.js+%7C+LangChain" alt="Typing intro" />
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-<a href="https://narihito-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://narihito-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/NarihitoM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:1d4ed8,100:0f172a" alt="" width="100%" />
