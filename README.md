@@ -9,7 +9,6 @@
 <p>
   <a href="https://narihito-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-narihito--portfolio.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Yangon-Myanmar-1d4ed8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Yangon, Myanmar" />
-  <img src="https://img.shields.io/badge/Exbrain-CO.%20LTD-0f172a?style=for-the-badge&logoColor=white" alt="Exbrain CO. LTD" />
 </p>
 
 </div>
@@ -20,7 +19,6 @@
 
 - I'm **Hein Htet Aung**, a 3rd year Computer Science student at the **University of Information Technology (UIT)**, Yangon
 - Online I go by **Narihito**, my name for coding and gaming
-- Developer at **Exbrain CO. LTD**
 - Building **MultimateAi**, an agentic OS style app that connects many AI model providers and services
 - I like turning AI models into tools people actually use: desktop assistants, MCP servers, Telegram agents, and dashboards
 
