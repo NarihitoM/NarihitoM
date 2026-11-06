@@ -30,7 +30,7 @@
 
 **Languages**
 <br />
-<img src="https://skillicons.dev/icons?i=ts,js" alt="TypeScript, JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts,js,python" alt="TypeScript, JavaScript, Python" />
 
 **Frontend**
 <br />
@@ -42,10 +42,10 @@
 
 **AI, automation, desktop, and deployment**
 <br />
-<img src="https://skillicons.dev/icons?i=electron,vercel" alt="Electron, Vercel" />
-<br />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="assets/langchain.svg" width="48" alt="LangChain" />
+<img src="assets/n8n.svg" width="48" alt="n8n" />
+<img src="https://skillicons.dev/icons?i=electron" width="48" alt="Electron" />
+<img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" />
 
 </div>
 
